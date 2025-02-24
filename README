@@ -1,0 +1,10 @@
+- pip -m venv venv 가상환경 생성
+- source venv/Scripts/activate : 가상환경 활성화
+- pip <module_name> : 모듈 설치
+- .gitignore : gitignore에 들어갈 파일 만들기
+- git ignore [파이썬, 윈도우, 맥] 코드 받아서 저장하기
+- pip freeze >> requirements.txt : 현재 설치된 모듈 리스트 저장
+- 만약 프로젝트가 모두 끝나서 용량확보 차원으로 venv(가상환경폴더)를 삭제했을 경우
+- venv 가상환경 새로 생성 및 활성화 한 후 아래 진행
+- pip install -r requirements.txt : requirements.txt 기준으로 모듈 설치
+- git init
