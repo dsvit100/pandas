@@ -8,3 +8,5 @@
 - venv 가상환경 새로 생성 및 활성화 한 후 아래 진행
 - pip install -r requirements.txt : requirements.txt 기준으로 모듈 설치
 - git init
+
+- seaborn = 데이터 시각화 라이브러리
